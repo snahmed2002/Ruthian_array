@@ -4,7 +4,8 @@ Routh-Hurwitz Stability Calculator  A Python-based graphical application that ca
 
 A graphical application that uses the Routh-Hurwitz criterion to determine the stability of a control system. The user can enter the coefficients of a characteristic polynomial, and the app will generate the Routh array and display whether the system is stable or unstable. 
 
-![App Screenshot Placeholder](path/to/screenshot.png) <!-- Replace this line with an actual screenshot path once added -->
+![App Screenshot Placeholder](https://github.com/user-attachments/assets/c8af59e1-8273-44b9-98d8-0d491fdb01ea)
+
 
 ## Features
 - Calculate the Routh array from input polynomial coefficients.
